@@ -17,3 +17,18 @@ F = Maximo
 #FFFFFF
 
 #FF0000
+
+red
+blue
+yellow
+
+RGB 0,1,2,3...255
+0 = ausencia 
+
+255 = maximo 
+
+rgb (255,255,255)
+
+RGB (0,0,255)
+
+
