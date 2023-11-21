@@ -15,7 +15,7 @@
 
    <p>localizada no Brasil em um lugar onde é muito calor, no rio de janeiro fica localiza o <strong>aquario G.Y</strong> mais famoso do rio, fundada em 2002 e está até hoje sendo o maior aquario.</p>
 
-   <p style="font-size: 20px"><em>não temos missão, se tivessemos nossa missão seria <strong>agradar as pessoas com os animais maritimos</strong>.</em></p> 
+   <p id= "missao"><em>não temos missão, se tivessemos nossa missão seria <strong>agradar as pessoas com os animais maritimos</strong>.</em></p> 
 
    <p>temos funcionarios muito bem experientes e sabem como cuidar dos animais e terão uma ótima recepção.</p> 
    </body>
