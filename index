@@ -3,7 +3,7 @@
    <head>
        <me ta charset="UTF-8"
        <title>aquario G.Y</title>
-       <link rel="stylesheet"
+       <link rel="stylesheet" href="style.css"
 
        <style>
            p {
